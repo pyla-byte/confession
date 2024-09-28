@@ -1,5 +1,5 @@
 import React from 'react'; 
-
+// import './SuggestionCard.css';
 
 const SuggestionCard =({title})=>{
   return(

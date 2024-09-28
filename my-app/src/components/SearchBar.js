@@ -1,6 +1,9 @@
 import React from 'react'; 
 
 
+// import './SearchBar.css';
+
+
 const SearchBar=()=>{
   return(
     <div className="h-screen flex items-center">
