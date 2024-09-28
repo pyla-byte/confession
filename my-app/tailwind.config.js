@@ -7,7 +7,7 @@ module.exports = {
       colors: {
         customDark: '#1e293b', // or the color of your text box
       },
-
+      
     },
   },
   plugins: [],

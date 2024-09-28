@@ -1,6 +1,7 @@
 .app {
     display: flex;
-    background-color:#1e293b;
+    background-color: slategrey;
+    
   }
   
   .main-content {
