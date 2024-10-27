@@ -1,17 +1,2 @@
-.app {
-    display: flex;
-    background-color: slategrey;
-    
-  }
-  
-  .main-content {
-    flex: 1;
-    padding: 20px;
-  }
-  
-  .suggestions {
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-  }
+
    
