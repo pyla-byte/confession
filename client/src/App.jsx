@@ -1,6 +1,7 @@
 import React from 'react';
-import Homescreen from './pages/Home/Homescreen';
+//import Homescreen from './pages/Home/Homescreen';
 import './App.css';
+import Login  from './pages/Loginpage/Login';
 
 
 
@@ -9,8 +10,8 @@ const App=()=>{
     
     <div>
   
-      <Homescreen/>
-
+    {/*<Homescreen/> */}
+    <Login/>
      
     </div>
   );

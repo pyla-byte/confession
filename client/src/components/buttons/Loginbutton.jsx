@@ -11,4 +11,4 @@ const Loginbutton=()=>
     )
 }   
 
-export default Loginbutton
+export default Loginbutton;
