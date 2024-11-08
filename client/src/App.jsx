@@ -1,9 +1,9 @@
 import React from 'react';
 //import Homescreen from './pages/Home/Homescreen';
 import './App.css';
-import Login  from './pages/Loginpage/Login';
-
-
+// import Login  from './pages/Loginpage/Login';
+// import Signup from './pages/signUp/Signup';
+import Display from './pages/loggedin/Display';
 
 const App=()=>{
   return (
@@ -11,8 +11,9 @@ const App=()=>{
     <div>
   
     {/*<Homescreen/> */}
-    <Login/>
-     
+    {/* <Login/> */}
+     {/* <Signup/> */}
+     <Display/>
     </div>
   );
 }

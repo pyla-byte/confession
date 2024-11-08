@@ -4,7 +4,10 @@ module.exports = {
   ],
   theme: {
     extend: {
-      
+      padding: {
+        '30': '30px',
+        '141': '141px',
+      },
       
     },
   },
